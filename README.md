@@ -1,5 +1,5 @@
 # README
-1. Complete Ruby On Rails For Developers
+1. First Test repo on the Complete Ruby On Rails Developer course
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
